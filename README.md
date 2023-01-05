@@ -1,0 +1,2 @@
+# RedMath
+A math library.
