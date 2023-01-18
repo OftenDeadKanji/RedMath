@@ -1,2 +1,2 @@
 # RedMath
-A math library.
+A math library for applications with 3D graphics.
